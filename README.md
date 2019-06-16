@@ -1,2 +1,2 @@
-# cke-build
-build the cke
+# hyperkube-build
+build the hyperkube
